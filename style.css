@@ -1,0 +1,33 @@
+/*Author: Kevin Kranenburg*/
+body{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+}
+
+.txtbox{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: 2px solid rgb(230, 38, 134);
+}
+
+#validatie img {
+    height: 1em;
+    width: auto;
+    border: 0;
+    margin: 0 .3em;
+    height: 40px;
+    padding: 20px;
+}
+
+.footer{
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-image: url("9798dcf6a285ee6151743fb4c5886b55.jpg");
+   text-align: center;
+   height: 80px;
+   border-top: 3px solid rgb(230, 38, 134);
+}
